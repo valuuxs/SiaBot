@@ -73,11 +73,8 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
   ╰━━━━━━━━━━━━
 
   ╭━〔 ⚔️ *BUSCAR VS PLANTILLAS* 🔱 〕
- *┃⏺️ 🌀 ${usedPrefix}buscarvsmasc*
  *┃⏺️ ⚔️ ${usedPrefix}bsmsac*
- *┃⏺️ ⚓ ${usedPrefix}buscarvsfem*
  *┃⏺️ ✨ ${usedPrefix}bsfem*
- *┃⏺️ 📍 ${usedPrefix}buscarvsmixto*
  *┃⏺️ 👁️‍🗨️ ${usedPrefix}bsmixto*
   ╰━━━━━━━━━━━━
 
