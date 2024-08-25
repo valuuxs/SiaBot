@@ -54,7 +54,7 @@ const handler = async (m, {conn, args}) => {
            title: tradutor.texto1[0],
            body: 'Readz Aleizn',
            previewType: 0, thumbnail: fs.readFileSync('./Menu2.jpg'),
-           sourceUrl: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`}
+           sourceUrl: `https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY`}
            }
         }
       );  
