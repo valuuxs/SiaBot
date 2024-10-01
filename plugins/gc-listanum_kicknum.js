@@ -1,12 +1,12 @@
 /*              Codigo Creado Por Bruno Sobrino
-      (https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY)
+      (https://github.com/BrunoSobrino/TheMystic-Bot-MD)
 */
 
 
 const handler = async (m, {conn, args, groupMetadata, participants, usedPrefix, command, isBotAdmin, isSuperAdmin}) => {
   const datas = global
-  const idioma = datas.db.data.users[m.sender].language
-  const _translate = JSON.parse(fs.readFileSync(`./language/${idioma}.json`))
+  const idioma = datas.db.data.users[m.sender].language || global.defaultLenguaje
+  const _translate = JSON.parse(fs.readFileSync(`./src/languages/${idioma}.json`))
   const tradutor = _translate.plugins.gc_listanum_kicknum
 
   if (!args[0]) return m.reply(`${tradutor.texto1} ${usedPrefix + command} 52*`);
