@@ -18,16 +18,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://www.instagram.com/ventas.candy_",
+  "homepage": "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
   "author": {
     "name": "BrunoSobrino"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://www.instagram.com/ventas.candy_.git"
+    "url": "git+https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY.git"
   },
   "bugs": {
-    "url": "https://www.instagram.com/ventas.candy_/issues"
+    "url": "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
