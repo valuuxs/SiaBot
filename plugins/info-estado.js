@@ -28,12 +28,12 @@ const handler = async (m, { conn, usedPrefix }) => {
   const old = performance.now();
   const neww = performance.now();
   const rtime = (neww - old).toFixed(7);
-  const wm = 'The Mystic Bot';
-  const info = ` ${tradutor.texto1[0]}
+  const wm = 'Sia Bot';
+  const info = `*_INFO / ESTADO_* ${tradutor.texto1[0]}
 
-  ${tradutor.texto1[1]} Readz Aleizn
-  ${tradutor.texto1[2]} +51992621601
-  ${tradutor.texto1[3]} https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY
+  ${tradutor.texto1[1]} *Prop.:* @usd.valuu_
+  ${tradutor.texto1[2]} *WA:* +56971943258
+  ${tradutor.texto1[3]} *GRUPO:* https://chat.whatsapp.com/DzofS7SygPAJeA2ysYv2zV
 
   ${tradutor.texto1[4]} ${rtime}
   ${tradutor.texto1[5]} ${uptime}
@@ -63,7 +63,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY` },
+    document: { url: `https://chat.whatsapp.com/DzofS7SygPAJeA2ysYv2zV` },
     mimetype: `application/${document}`,
     fileName: `Documento`,
     fileLength: 99999999999999,
@@ -72,13 +72,13 @@ const handler = async (m, { conn, usedPrefix }) => {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
+        mediaUrl: "https://chat.whatsapp.com/DzofS7SygPAJeA2ysYv2zV",
         mediaType: 2,
         previewType: "pdf",
-        title: "Readz Aleizn",
+        title: "Sia Bot",
         body: tradutor.texto2,
         thumbnail: imagen1,
-        sourceUrl: "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
+        sourceUrl: "https://chat.whatsapp.com/DzofS7SygPAJeA2ysYv2zV",
       },
     },
     caption: info,

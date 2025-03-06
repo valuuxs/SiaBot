@@ -29,7 +29,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
-║    ◉— *Readz Aleizn* —◉
+║    ◉— *𝑺𝒊𝒂 𝑩𝒐𝒕* —◉
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
 ║➤ *𝗛ola, ${taguser}*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
@@ -66,7 +66,6 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 ┣ ඬ⃟🔊 _Viernes_
 ┣ ඬ⃟🔊 _Baneado_
 ┣ ඬ⃟🔊 _Sexo_
-┣ ඬ⃟🔊 _Hola_
 ┣ ඬ⃟🔊 _Un pato_
 ┣ ඬ⃟🔊 _Nyanpasu_
 ┣ ඬ⃟🔊 _Te amo_

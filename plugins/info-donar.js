@@ -12,7 +12,7 @@ const handler = async (m, {conn, usedPrefix, command}) => {
   const name = await conn.getName(m.sender);
   const donar =`
 *┏ ┅ ━━━━━━━━━━━━━━━━━ ┅ ━*
-*┇          「 ${tradutor.texto1[0]} 」*
+*┇          「${tradutor.texto1[0]} 」*
 *┣ ┅ ━━━━━━━━━━━━━━━━━ ┅ ━*
 *┃ ${tradutor.texto1[1]} ${name}*
 *┃*
