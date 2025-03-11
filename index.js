@@ -17,7 +17,7 @@ say('Sia Bot', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']});
-say(`Bot creado para ti`, {
+say(`Bot creado para clan live`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']});
