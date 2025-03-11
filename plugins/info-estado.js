@@ -31,10 +31,9 @@ const handler = async (m, { conn, usedPrefix }) => {
   const wm = 'Sia Bot';
   const info = `*_INFO / ESTADO_* ${tradutor.texto1[0]}
 
-  ${tradutor.texto1[1]} *Prop.:* @usd.valuu_
-  ${tradutor.texto1[2]} *WA:* +56971943258
-  ${tradutor.texto1[3]} *GRUPO:* https://chat.whatsapp.com/DzofS7SygPAJeA2ysYv2zV
-
+  ${tradutor.texto1[1]} *Prop.:* @clanlive.ff
+  ${tradutor.texto1[2]} *WA:* +56945081052
+  ${tradutor.texto1[3]} *INSTA:* https://www.instagram.com/clanlive.ff?igsh=N2xsb3VsdTk1b2pk
   ${tradutor.texto1[4]} ${rtime}
   ${tradutor.texto1[5]} ${uptime}
   ${tradutor.texto1[6]} ${usedPrefix}
@@ -63,7 +62,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://chat.whatsapp.com/DzofS7SygPAJeA2ysYv2zV` },
+    document: { url: `https://www.instagram.com/clanlive.ff?igsh=N2xsb3VsdTk1b2pk` },
     mimetype: `application/${document}`,
     fileName: `Documento`,
     fileLength: 99999999999999,
@@ -72,13 +71,13 @@ const handler = async (m, { conn, usedPrefix }) => {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://chat.whatsapp.com/DzofS7SygPAJeA2ysYv2zV",
+        mediaUrl: "https://www.instagram.com/clanlive.ff?igsh=N2xsb3VsdTk1b2pk",
         mediaType: 2,
         previewType: "pdf",
-        title: "Sia Bot",
+        title: "LIVES IA",
         body: tradutor.texto2,
         thumbnail: imagen1,
-        sourceUrl: "https://chat.whatsapp.com/DzofS7SygPAJeA2ysYv2zV",
+        sourceUrl: "https://www.instagram.com/clanlive.ff?igsh=N2xsb3VsdTk1b2pk",
       },
     },
     caption: info,

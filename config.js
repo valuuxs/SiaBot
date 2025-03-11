@@ -11,50 +11,50 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['56971943258', 'Sia Bot', true],
-  ['56971943258', 'Sia Bot', true],
-  ['56971943258', 'Sia Bot', true],
-  ['56971943258', 'Sia Bot', true],
-  ['56971943258', 'Sia Bot', true],
-  ['56971943258', 'Sia Bot', true],
-  ['56971943258', 'Sia Bot', false],
-  ['56971943258', 'Sia Bot', true],
-  ['56971943258', 'Sia Bot', true],
-  ['56971943258', 'Sia Bot', true],
-  ['56971943258', 'Sia Bot', true], 
-  ['56971943258', 'Sia Bot', true],
-  ['56971943258', 'Sia Bot', true], 
-  ['56971943258'],
-  ['56971943258'],
-  ['556971943258'],
-  ['56971943258'],
-  ['56971943258'], 
-  ['56971943258'],  
-  ['56971943258'],
-  ['56971943258'],
-  ['56971943258'],
-  ['56971943258'], 
-  ['56971943258'], 
-  ['56971943258'],
-  ['56971943258'],
-  ['56971943258'],
-  ['56971943258'],
-  ['56971943258'], 
-  ['56971943258'],
-  ['56971943258'],
-  ['56971943258'],
-  ['56971943258']
+  ['+56945081052', 'LIVES IA', true],
+  ['+56945081052', 'LIVES IA', true],
+  ['+56945081052', 'LIVES IA', true],
+  ['+56945081052', 'LIVES IA', true],
+  ['+56945081052', 'LIVES IA', true],
+  ['+56945081052', 'LIVES IA', true],
+  ['+56945081052', 'LIVES IA', false],
+  ['+56945081052', 'LIVES IA', true],
+  ['+56945081052', 'LIVES IA', true],
+  ['+56945081052', 'LIVES IA', true],
+  ['+56945081052', 'LIVES IA', true], 
+  ['+56945081052', 'LIVES IA', true],
+  ['+56945081052', 'LIVES IA', true], 
+  ['+56945081052'],
+  ['+56945081052'],
+  ['+56945081052'],
+  ['+56945081052'],
+  ['+56945081052'], 
+  ['+56945081052'],  
+  ['+56945081052'],
+  ['+56945081052'],
+  ['+56945081052'],
+  ['+56945081052'], 
+  ['+56945081052'], 
+  ['+56945081052'],
+  ['+56945081052'],
+  ['+56945081052'],
+  ['+56945081052'],
+  ['+56945081052'], 
+  ['+56945081052'],
+  ['+56945081052'],
+  ['+56945081052'],
+  ['+56945081052']
 ];
 
-global.suittag = ['56971943258'];
-global.prems = ['56971943258'];
+global.suittag = ['+56945081052'];
+global.prems = ['+56945081052'];
 
 global.packname = 'Sticker';
-global.author = 'Sia Bot';
-global.wm = 'Sia Bot';
-global.titulowm = 'Sia Bot';
-global.titulowm2 = `Sia Bot`
-global.igfg = 'Sia Bot';
+global.author = 'LIVES IA';
+global.wm = 'LIVES IA';
+global.titulowm = 'LIVES IA';
+global.titulowm2 = `LIVES IA`
+global.igfg = 'LIVES IA';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -79,16 +79,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nSia Bot`;
-global.gt = 'Sia Bot';
-global.mysticbot = 'Sia Bot';
-global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
-global.md = 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY';
-global.mysticbot = 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY';
+global.wm2 = `${dia} ${fecha}\nLIVES IA`;
+global.gt = 'LIVES IA';
+global.mysticbot = 'LIVES IA';
+global.channel = 'https://www.instagram.com/clanlive.ff?igsh=N2xsb3VsdTk1b2pk';
+global.md = 'https://www.instagram.com/clanlive.ff?igsh=N2xsb3VsdTk1b2pk';
+global.mysticbot = 'https://www.instagram.com/clanlive.ff?igsh=N2xsb3VsdTk1b2pk';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '51992621601';
+global.nomorown = '56945081052';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';

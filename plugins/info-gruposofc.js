@@ -10,10 +10,10 @@ const handler = async (m, {conn, usedPrefix}) => {
   const document = doc[Math.floor(Math.random() * doc.length)];
   const text = `${tradutor.texto1[0]}
 
-${tradutor.texto1[1]}*➣ 𝙶𝚛𝚞𝚙𝚘𝚜 𝙾𝚏𝚒𝚌𝚒𝚊𝚕𝚎𝚜 𝚍𝚎𝚕 𝙱𝚘𝚝*
-1.- https://chat.whatsapp.com/DzofS7SygPAJeA2ysYv2zV`.trim();
+${tradutor.texto1[1]}*➣ 𝙸𝚗𝚜𝚝𝚊 𝙾𝚏𝚒𝚌𝚒𝚊𝚕 𝚍𝚎𝚕 𝙱𝚘𝚝*
+1.- https://www.instagram.com/clanlive.ff?igsh=N2xsb3VsdTk1b2pk`.trim();
   const buttonMessage= {
-    'document': {url: `https://chat.whatsapp.com/DzofS7SygPAJeA2ysYv2zV`},
+    'document': {url: `https://www.instagram.com/clanlive.ff?igsh=N2xsb3VsdTk1b2pk`},
     'mimetype': `application/${document}`,
     'fileName': `「 𝙷𝚎𝚕𝚕𝚘  𝚆𝚘𝚛𝚕𝚍 」`,
     'fileLength': 99999999999999,
@@ -22,13 +22,13 @@ ${tradutor.texto1[1]}*➣ 𝙶𝚛𝚞𝚙𝚘𝚜 𝙾𝚏𝚒𝚌𝚒𝚊𝚕�
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://chat.whatsapp.com/DzofS7SygPAJeA2ysYv2zV',
+        'mediaUrl': 'https://www.instagram.com/clanlive.ff?igsh=N2xsb3VsdTk1b2pk',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': `*𝙴𝚕 𝚖𝚎𝚓𝚘𝚛 𝚋𝚘𝚝 𝚍𝚎 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙*`,
         'body': wm,
         'thumbnail': imagen1,
-        'sourceUrl': 'https://chat.whatsapp.com/DzofS7SygPAJeA2ysYv2zV'}},
+        'sourceUrl': 'https://www.instagram.com/clanlive.ff?igsh=N2xsb3VsdTk1b2pk'}},
     'caption': text,
     'footer': wm,
     'headerType': 6};

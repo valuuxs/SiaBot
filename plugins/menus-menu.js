@@ -33,9 +33,9 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `┎━━━━━┉┅ ✶ ┅┉━━━━━━┒
-┃ 𝘾𝙧𝙚𝙖𝙙𝙤𝙧𝙖: @𝙪𝙨𝙙.𝙫𝙖𝙡𝙪𝙪_
-┃ 💌 wa.me/56971943258
-┃https://chat.whatsapp.com/DzofS7SygPAJeA2ysYv2zV 
+┃ 𝘾𝙧𝙚𝙖𝙙𝙤𝙧: @𝙘𝙡𝙖𝙣𝙡𝙞𝙫𝙚.𝙛𝙛
+┃ ⚜️wa.me/56945081052
+┃https://www.instagram.com/clanlive.ff?igsh=N2xsb3VsdTk1b2pk 
 ┖━━━━━━━━━━━━━━━━━┚
 
 
@@ -52,7 +52,6 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
  *┃⏺️  ${usedPrefix}promote*
  *┃⏺️  ${usedPrefix}demote*
  *┃⏺️  ${usedPrefix}demote*
- *┃⏺️  ${usedPrefix}link*
  *┃⏺️  ${usedPrefix}invocar*
  *┃⏺️  ${usedPrefix}setwelcome*
  *┃⏺️  ${usedPrefix}setbye*
@@ -76,29 +75,6 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
  *┃⏺️ ✨ ${usedPrefix}bsfem*
  *┃⏺️ 👁️‍🗨️ ${usedPrefix}bsmixto*
   ╰━━━━━━━━━━━━
-
- *╔══ ≪ REGLAS , LISTA , FICHA ≫ ══╗*
-*║* 💻➺ _${usedPrefix}Fem4_
-*║* 💻➺ _${usedPrefix}Fem6_
-*║* 💻➺ _${usedPrefix}FemInterna4_
-*║* 💻➺ _${usedPrefix}FemInterna6_
-*║* 💻➺ _${usedPrefix}Masc4_
-*║* 💻➺ _${usedPrefix}Masc6_
-*║* 💻➺ _${usedPrefix}MascInterna4_
-*║* 💻➺ _${usedPrefix}MascInterna6_
-*║* 💻➺ _${usedPrefix}Mixto4_
-*║* 💻➺ _${usedPrefix}Mixto6_
-*║* 💻➺ _${usedPrefix}MixtoInterna4_
-*║* 💻➺ _${usedPrefix}MixtoInterna6_
-*║* 💻➺ _${usedPrefix}apos_
-*║* 💻➺ _${usedPrefix}mapa_
-*║* 💻➺ _${usedPrefix}Ficha / Formulario Reclutamiento_
-*║* 💻➺ _${usedPrefix}Nexterra_
-*║* 💻➺ _${usedPrefix}Bermuda_
-*║* 💻➺ _${usedPrefix}Kalahary_
-*║* 💻➺ _${usedPrefix}Alpes_
-*║* 💻➺ _${usedPrefix}AgendaSemanal_
-*╚══ ≪ •❈• ≫ ══╝*
 
  *╔══ ≪ LINKS DE COMUS/APK Y DRIVES DZN ≫ ══╗*
  *║* 🎐_${usedPrefix}SpamApk / WhatsApp_
